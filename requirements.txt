@@ -1,6 +1,5 @@
 absl-py==1.2.0
 attrs==22.1.0
-certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ccvvj6f93d/croots/recipe/certifi_1663615678215/work/certifi
 contourpy==1.0.5
 cycler==0.11.0
 fonttools==4.37.3
